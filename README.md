@@ -1,8 +1,10 @@
-© 2026, Dipesh Padhiar
-
 ScanCode Excel Add-In
 Generate and maintain barcodes directly
 within Microsoft Excel.
+
+© 2026, Dipesh Padhiar
+
+<img width="851" height="128" alt="ScanCodeGenerator" src="https://github.com/user-attachments/assets/a04f3904-6e71-4933-966a-00c36c3bf47d" />
 
 Supported Barcode Types:
 • PDF417
