@@ -1,5 +1,4 @@
-ScanCode Excel Add-In
-Generate and maintain barcodes directly
+Excel Add-In to Generate and maintain barcodes directly
 within Microsoft Excel.
 
 © 2026, Dipesh Padhiar
