@@ -7,20 +7,20 @@ within Microsoft Excel.
 <img width="851" height="128" alt="ScanCodeGenerator" src="https://github.com/user-attachments/assets/a04f3904-6e71-4933-966a-00c36c3bf47d" />
 
 Supported Barcode Types:
-• PDF417
-• Code39
-• Code93
-• Code128
-• CodaBar
-• QR Code
-• Data Matrix
-• Aztec
+- PDF417
+- Code39
+- Code93
+- Code128
+- CodaBar
+- QR Code
+- Data Matrix
+- Aztec
 
 Features:
-• Automatic barcode updates
-• Refresh All functionality
-• Validation and error highlighting
-• Formula-linked cell support
+- Automatic barcode updates
+- Refresh All functionality
+- Validation and error highlighting
+- Formula-linked cell support
 
 --------------------------------------------------
 
@@ -36,28 +36,28 @@ Generating a Barcode
    to the right of the selected cell.
 
 Automatic Updates
-• Once generated, a barcode is linked
+- Once generated, a barcode is linked
   to the source cell.
-• When the source cell value changes,
+- When the source cell value changes,
   the barcode updates automatically.
 
 Formula-Driven Cells
-• Barcodes can be generated from cells
+- Barcodes can be generated from cells
   containing formulas.
-• Updates to referenced cells will
+- Updates to referenced cells will
   automatically refresh the barcode.
 
 Validation
-• Invalid barcode data prevents
+- Invalid barcode data prevents
   barcode generation.
-• During automatic updates:
+- During automatic updates:
   - The source cell turns pink
   - A comment explains the issue
   - The last valid barcode remains
 
 Refresh All
-Use the Refresh All button to rebuild
-all tracked barcodes in the workbook.",
+- Use the Refresh All button to rebuild
+all tracked barcodes in the workbook.
 
 ------------------------
 
